@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "Blog 1",
+            "body": "asldflaskdflajsf...",
+            "author": "-by GCT",
+            "id": 1
+        },
+        {
+            "title": "Blog 2",
+            "body": "asldflaskdflajsf...",
+            "author": "-by GCT",
+            "id": 2
+        },
+        {
+            "title": "Blog 3",
+            "body": "asldflaskdflajsf...",
+            "author": "-by GCT",
+            "id": 3
+        }
+    ]
+}
